@@ -1,4 +1,4 @@
-#### Welcome to my GitHub Profile :blush:
+#### Welcome to my GitHub profile :blush:
 
 Here you can find the apps, data and data analysis of my research projects. I mostly worked with React.js (and Electron.js in later projects) to create research software and conducted data analysis with Python (and a little bit of R). Feel free to contact me with questions or feedback regarding my code or research at any time. 
 
